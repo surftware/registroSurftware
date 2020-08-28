@@ -1,0 +1,41 @@
+/***************************************Colores***************************************/
+/*encabezado*/
+.bg-dark {
+    background-color: #7e4b00 !important;
+}
+/*cuerpo de pagina*/
+.card-body {
+    background-color: #eeeeee;
+}
+/*menu lateral*/
+.sidebar {
+    background-color: #e0620e;
+}
+.sidebar .nav-item .nav-link {
+    background-color: #b15f12a1;
+    color: rgba(0, 0, 0, 0.5);
+}
+.sidebar .nav-item .dropdown-menu {
+    background-color: #d8ba57a1;
+}
+.breadcrumb {
+    background-color: #fab804a9; 
+}
+/*card (contenedor)*/
+.card-header {
+    background-color: #fab80481;
+}
+/*imagen*/
+img.logo_principal{
+    width: 150px; height: 50px;
+}
+/*booton de retroceso*/
+.scroll-to-top {
+    color: #fff;
+    background-color: #b11d12b0;
+}
+/*pie de pagina*/
+footer.sticky-footer {
+    background-color: #b15f12;
+}
+/*************************************************************************************/
